@@ -2,10 +2,14 @@
 
 > dp ps start 2020/06/29~
 
+```
+// 늦지 않기 ㅠㅠ
+```
+
 > 기여자
 
-# ventulus95
-# cskhw
+- ventulus95
+- cskhw
 
 ## 주차별 학습 진행
 
